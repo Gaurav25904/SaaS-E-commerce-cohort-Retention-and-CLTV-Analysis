@@ -1,0 +1,7 @@
+- Dataset contains transactional retail data (2009–2011)
+- Total customers:  5878
+- Total Orders: 36969
+- Total revenue: 17743429.178000003
+- UK has highest customers
+- Repeat purchase behavior observed
+- Revenue is skewed (few customers generate most revenue)
