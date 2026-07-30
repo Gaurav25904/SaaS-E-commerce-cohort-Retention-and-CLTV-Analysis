@@ -135,7 +135,7 @@ The **SaaS E-commerce Cohort Retention & CLTV Analysis** project focuses on anal
 **AI & Data Science Engineer**
 
 - **GitHub:** https://github.com/Gaurav25904
-- **LinkedIn:** *Add your LinkedIn profile link*
+- **LinkedIn:** https://www.linkedin.com/in/gaurav-shinde-95a568362?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
